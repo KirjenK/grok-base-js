@@ -1,0 +1,23 @@
+{
+  "name": "js-grok",
+  "version": "1.0.0",
+  "description": "### Как с этим работать В директории проекта находится 3 папки c упражнениями, разбитыми по сложности. В каждой папке три файла. Один файл - одно упражнение.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elbrus-Bootcamp/grok-js-base.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elbrus-Bootcamp/grok-js-base/issues"
+  },
+  "homepage": "https://github.com/Elbrus-Bootcamp/grok-js-base#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
